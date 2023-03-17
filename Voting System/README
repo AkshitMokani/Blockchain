@@ -1,0 +1,7 @@
+
+Create a voting contract with the following methods :-
+    1. Vote - There will be some Candidates, users can vote for one of them by putting their id no. Users can only vote once.
+    2. Voters – returns all the voters (address), who have voted
+    3. checkVote – users can check if they have voted or not
+    4. totalVotes – returns the total numbers of votes for each id
+    5. finalizeVote – returns the winner id/candidate who has the maximum vote.
