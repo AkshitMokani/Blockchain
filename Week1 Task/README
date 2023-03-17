@@ -1,1 +1,22 @@
+1. Create a counter contract for increment and decrement. Emit event for both. 
+• Increment by 5
+• decrement by 2
+• set default value 4
 
+2. Create a contract that takes input string from the user and sets new value, restrict this so that only 
+   owner of the contract can do this 
+
+3. Create a mapping that maps bookId to author name. Add three methods to 
+• add the values
+• get the values
+• delete the mapping
+
+4. Create a dynamic sized array for country names. Add three methods to 
+• add the country names
+• delete the countries from the array
+• return the array size
+
+5. Create a structure named “School” for “studentName” and “rollNo”. Add two methods to 
+• add new student to the structure
+• get the studentName by rollNo.
+• Get the rollNo by studentName
